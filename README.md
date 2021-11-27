@@ -1,9 +1,11 @@
 # CatisCoding
 ---
 # Hello, my name is Cátia! 🤙 🖖
-![CatisCoding](https://user-images.githubusercontent.com/94981612/143611853-ca569bc9-1635-44df-8fff-9aa62303eb76.png)
+
 
 ## :woman_technologist: About me :woman_technologist: :
+<img align="right"  src="https://user-images.githubusercontent.com/94981612/143611853-ca569bc9-1635-44df-8fff-9aa62303eb76.png" style="max-width: 100%;">
+
 - Renewable Energy Engineering
 - :woman_technologist: I'm studying programming since August/2021
 - :house_with_garden: I’m from Portugal.
