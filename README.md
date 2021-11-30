@@ -20,7 +20,7 @@
 - [x] CSS
 - [ ] JavaScript
 - [ ] API
-- [x] GitHub
+- [x] Git and GitHub
 - [ ] Bootstrap
 - [ ] Hosting
 - [ ] Flexbox
