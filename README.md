@@ -18,7 +18,7 @@
 - [ ] Python POO
 - [x] HTML
 - [x] CSS
-- [ ] JavaScript
+- [x] JavaScript
 - [ ] API
 - [x] Git and GitHub
 - [ ] Bootstrap
