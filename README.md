@@ -19,10 +19,10 @@
 - [x] HTML
 - [x] CSS
 - [x] JavaScript
-- [ ] API
+- [x] API
 - [x] Git and GitHub
-- [ ] Bootstrap
-- [ ] Hosting
+- [x] Bootstrap
+- [x] Hosting
 - [ ] Flexbox
 - [ ] SEO
 - [ ] React
