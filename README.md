@@ -23,9 +23,9 @@
 - [x] Git and GitHub
 - [x] Bootstrap
 - [x] Hosting
-- [ ] Flexbox
-- [ ] SEO
-- [ ] React
+- [x] Flexbox
+- [x] SEO
+- [x] React
 
 ## Contacts!
 <p align="center">
